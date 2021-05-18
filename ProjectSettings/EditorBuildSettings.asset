@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: c7312d172b65296469fb207989d144ce
+  - enabled: 1
+    path: Assets/Scenes/QuestionSetsScene.unity
+    guid: d4d75a0001045e84cb5191bf6ab4ee55
+  - enabled: 1
+    path: Assets/Scenes/LevelsScene.unity
+    guid: 8071bd35c804ce44d892e3a69bbb72d5
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 7530973bf827c864abc5a710d93553ee
+  - enabled: 1
+    path: Assets/Scenes/CustomQuestionSetAdder.unity
+    guid: c4c725e85f63dc5488b5186116e8e948
+  m_configObjects: {}
